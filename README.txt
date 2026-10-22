@@ -1,0 +1,1 @@
+Romanian B1 PWA. Upload all files together to an HTTPS static host. Open the hosted URL in Chrome and choose Add to Home Screen / Install App. Local progress is stored per browser/device, not synchronized. Use JSON export/import for backups. No account system or cloud sync is included.
